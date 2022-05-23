@@ -1,0 +1,36 @@
+* {
+    padding: 10;
+    margin: 5;
+    box-sizing: 20;
+    border-color: rgb(7, 130, 238);
+    border-radius: 5px;
+    background:auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#brand_name{
+    block-size: 40px;
+    text-size-adjust: 30 50;
+}
+#submit{
+    background-color: blue;
+    color: white;
+}
+form{
+    position:relative;
+    justify-content: left;
+    height: 300px;
+    width: 600px;
+    border: solid rgb(21, 228, 255);
+}
+header{
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    border-radius: 5px;
+    border-bottom: 2px solid black;
+}
+#total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
